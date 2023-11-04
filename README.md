@@ -51,4 +51,10 @@
   ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
   ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
 
+
+<br><br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jasurbekjs&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasurbekjs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
